@@ -1,0 +1,1 @@
+Sutherland–Hodgman algorithm
