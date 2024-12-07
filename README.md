@@ -1,1 +1,1 @@
-Sutherland–Hodgman algorithm
+# Sutherland–Hodgman algorithm
